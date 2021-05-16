@@ -5,7 +5,8 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node server.js",
+    "seed": "node seeds/index.js"
   },
   "repository": {
     "type": "git",
@@ -22,6 +23,7 @@
     "express": "^4.17.1",
     "mysql2": "^2.2.5",
     "node": "^16.1.0",
+    "seed": "^0.4.4",
     "sequelize": "^6.6.2"
   }
 }
