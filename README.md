@@ -32,7 +32,9 @@ I utilized the following applications to showcase the backend work:
 (technically the Bootcamp as well since we had some starter code)
 
 
-## Video of Application
+## GIF of Creating Database and full Video of Application
+
+![GIF](assets/schema.gif)
 
 This video shows how to seed the database, start the server, then utilize the GET, POST, PUT, and DELETE methods in Insomnia.
 
